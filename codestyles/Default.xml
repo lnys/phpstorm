@@ -1,4 +1,5 @@
 <code_scheme name="Default" version="173">
+  <option name="RIGHT_MARGIN" value="240" />
   <PHPCodeStyleSettings>
     <option name="IMPORT_SORTING" value="BY_LENGTH" />
     <option name="LOWER_CASE_BOOLEAN_CONST" value="true" />
