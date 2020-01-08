@@ -1,0 +1,14 @@
+<application>
+  <component name="MaterialThemeConfig">
+    <option name="isContrastMode" value="true" />
+    <option name="isWizardShown" value="true" />
+    <option name="monochromeIcons" value="true" />
+    <option name="pristineConfig" value="false" />
+    <option name="tabFontSizeEnabled" value="true" />
+    <option name="useMaterialIcons" value="false" />
+    <option name="accentColor" value="ff9800" />
+    <option name="selectedTheme" value="DARKER" />
+    <option name="userId" value="-183040b9:16f8666e564:-8000" />
+    <option name="version" value="4.11.5" />
+  </component>
+</application>
