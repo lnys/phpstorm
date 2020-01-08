@@ -1,8 +1,0 @@
-<templateSet group="PHP">
-  <template name="Times" value="$DATE$" shortcut="ENTER" description="Times quick view" toReformat="false" toShortenFQNames="true">
-    <variable name="DATE" expression="date(&quot;y-MM-dd HH:mm:ss&quot;)" defaultValue="DATE()" alwaysStopAt="false" />
-    <context>
-      <option name="PHP" value="true" />
-    </context>
-  </template>
-</templateSet>
