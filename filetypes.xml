@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping pattern="BankTask.php" type="PLAIN_TEXT" />
-      <mapping ext="pfx" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
